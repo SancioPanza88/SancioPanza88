@@ -27,56 +27,56 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🕵️ Cluedo — Delitto a Villa Nera
-Giallo deduttivo in un unico HTML: 6 sospetti, 6 armi, 9 stanze, IA che accusano davvero. Con manuale illustrato.
+### 🕵️ [Cluedo — Delitto a Villa Nera](https://github.com/SancioPanza88/cluedo-delitto-a-villa-nera)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/cluedo-delitto-a-villa-nera?style=flat-square)](https://github.com/SancioPanza88/cluedo-delitto-a-villa-nera) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/cluedo-delitto-a-villa-nera?style=flat-square)](https://github.com/SancioPanza88/cluedo-delitto-a-villa-nera)
+<br>Giallo deduttivo in un unico HTML: 6 sospetti, 6 armi, 9 stanze, IA che accusano davvero. Con manuale illustrato.
 <br>🎮 [Gioca online](https://sanciopanza88.github.io/cluedo-delitto-a-villa-nera/cluedo.html) · 📖 [Manuale](https://sanciopanza88.github.io/cluedo-delitto-a-villa-nera/manuale.html)
 
-<a href="https://github.com/SancioPanza88/cluedo-delitto-a-villa-nera"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=cluedo-delitto-a-villa-nera&theme=tokyonight" alt="cluedo"/></a>
-
-### 🕳️ Abisso 2.0 — Enhanced
-Roguelike multiplayer P2P senza server: torce tremolanti, boss, particelle, audio sintetizzato. Con doppio manuale.
+### 🕳️ [Abisso 2.0 — Enhanced](https://github.com/SancioPanza88/Abisso-2.0)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/Abisso-2.0?style=flat-square)](https://github.com/SancioPanza88/Abisso-2.0) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/Abisso-2.0?style=flat-square)](https://github.com/SancioPanza88/Abisso-2.0)
+<br>Roguelike multiplayer P2P senza server: torce tremolanti, boss, particelle, audio sintetizzato. Con doppio manuale.
 <br>🚀 [Gioca online](https://sanciopanza88.github.io/Abisso-2.0/)
 
-<a href="https://github.com/SancioPanza88/Abisso-2.0"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=Abisso-2.0&theme=tokyonight" alt="abisso"/></a>
-
-### 🏎️ Top Gear P2P — Enhanced
-Racing / Demolition Derby multiplayer nel browser, stanza condivisa via WebRTC. Nessun server dedicato.
+### 🏎️ [Top Gear P2P — Enhanced](https://github.com/SancioPanza88/Top-Gear-P2P---Enhanced-Version)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/Top-Gear-P2P---Enhanced-Version?style=flat-square)](https://github.com/SancioPanza88/Top-Gear-P2P---Enhanced-Version) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/Top-Gear-P2P---Enhanced-Version?style=flat-square)](https://github.com/SancioPanza88/Top-Gear-P2P---Enhanced-Version)
+<br>Racing / Demolition Derby multiplayer nel browser, stanza condivisa via WebRTC. Nessun server dedicato.
 <br>🏁 [Gioca online](https://sanciopanza88.github.io/Top-Gear-P2P---Enhanced-Version/)
 
-<a href="https://github.com/SancioPanza88/Top-Gear-P2P---Enhanced-Version"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=Top-Gear-P2P---Enhanced-Version&theme=tokyonight" alt="topgear"/></a>
+### 🎖️ [Operazione Ponte Spezzato](https://github.com/SancioPanza88/-Operazione-Ponte-Spezzato)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/-Operazione-Ponte-Spezzato?style=flat-square)](https://github.com/SancioPanza88/-Operazione-Ponte-Spezzato) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/-Operazione-Ponte-Spezzato?style=flat-square)](https://github.com/SancioPanza88/-Operazione-Ponte-Spezzato)
+<br>Strategia tattica WWII in tempo reale, P2P e senza server: plotoni autonomi che eseguono i tuoi ordini.
 
-### 🏝️ L'Isola DS Edition
-La sopravvivenza dell'Isola portata su Nintendo DS in C.
-<br><br>
+### 👾 [Chex Quest DS](https://github.com/SancioPanza88/chex-quest-ds)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/chex-quest-ds?style=flat-square)](https://github.com/SancioPanza88/chex-quest-ds) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/chex-quest-ds?style=flat-square)](https://github.com/SancioPanza88/chex-quest-ds)
+<br>Port di Chex Quest per Nintendo DS su engine Chocolate Doom: WAD integrato via NitroFS, build automatica con GitHub Actions.
 
-<a href="https://github.com/SancioPanza88/L-isola-DS-Edition"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=L-isola-DS-Edition&theme=tokyonight" alt="isola-ds"/></a>
+### 📡 [NTR Viewer per TV](https://github.com/SancioPanza88/ntr-viewer-TV-)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/ntr-viewer-TV-?style=flat-square)](https://github.com/SancioPanza88/ntr-viewer-TV-) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/ntr-viewer-TV-?style=flat-square)](https://github.com/SancioPanza88/ntr-viewer-TV-)
+<br>Remote play del Nintendo 3DS (NTR CFW) su Android: TV, Google TV, Chromebook, telefono e tablet. APK via GitHub Actions.
 
 </td>
 <td width="50%" valign="top">
 
-### 🌴 L'Isola — Sopravvivenza
-Gioco di carte survival pixel-art 16-bit: naufrago, 21 giorni, la nave arriva il 22°. Con manuale illustrato.
+### 🌴 [L'Isola — Sopravvivenza](https://github.com/SancioPanza88/L-Isola)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/L-Isola?style=flat-square)](https://github.com/SancioPanza88/L-Isola) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/L-Isola?style=flat-square)](https://github.com/SancioPanza88/L-Isola)
+<br>Gioco di carte survival pixel-art 16-bit: naufrago, 21 giorni, la nave arriva il 22°. Con manuale illustrato.
 <br>▶ [Gioca online](https://sanciopanza88.github.io/L-Isola/)
 
-<a href="https://github.com/SancioPanza88/L-Isola"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=L-Isola&theme=tokyonight" alt="isola"/></a>
+### 🏝️ [L'Isola DS Edition](https://github.com/SancioPanza88/L-isola-DS-Edition)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/L-isola-DS-Edition?style=flat-square)](https://github.com/SancioPanza88/L-isola-DS-Edition) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/L-isola-DS-Edition?style=flat-square)](https://github.com/SancioPanza88/L-isola-DS-Edition)
+<br>La sopravvivenza dell'Isola portata su Nintendo DS in C.
 
-### 🎖️ Operazione Ponte Spezzato
-Strategia tattica WWII in tempo reale, P2P e senza server: plotoni autonomi che eseguono i tuoi ordini.
-<br><br>
+### 📱 [Abisso Android](https://github.com/SancioPanza88/Abisso-Android)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/Abisso-Android?style=flat-square)](https://github.com/SancioPanza88/Abisso-Android) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/Abisso-Android?style=flat-square)](https://github.com/SancioPanza88/Abisso-Android)
+<br>Abisso 2.0 come app Android nativa: joystick touch, interfaccia responsive, minimappa, solo offline e coop P2P.
 
-<a href="https://github.com/SancioPanza88/-Operazione-Ponte-Spezzato"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=-Operazione-Ponte-Spezzato&theme=tokyonight" alt="ponte"/></a>
+### 🎬 [Streamflix](https://github.com/SancioPanza88/streamflix)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/streamflix?style=flat-square)](https://github.com/SancioPanza88/streamflix) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/streamflix?style=flat-square)](https://github.com/SancioPanza88/streamflix)
+<br>App Android per lo streaming: la versione più recente della saga Streamflix.
 
-### 🎬 Streamflix
-App Android per lo streaming: la versione più recente della saga Streamflix.
-<br><br>
-
-<a href="https://github.com/SancioPanza88/streamflix"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=streamflix&theme=tokyonight" alt="streamflix"/></a>
-
-### 📺 CartoonMania
-App Android per i cartoni animati.
-<br><br>
-
-<a href="https://github.com/SancioPanza88/CartoonMania"><img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=SancioPanza88&repo=CartoonMania&theme=tokyonight" alt="cartoon"/></a>
+### 📺 [CartoonMania](https://github.com/SancioPanza88/CartoonMania)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/CartoonMania?style=flat-square)](https://github.com/SancioPanza88/CartoonMania) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/CartoonMania?style=flat-square)](https://github.com/SancioPanza88/CartoonMania)
+<br>App Android per i cartoni animati.
 
 </td>
 </tr>
