@@ -84,6 +84,46 @@
 
 ---
 
+<h2 align="center">🕹️ Homebrew PS Vita & Nintendo DS</h2>
+<p align="center"><i>Porting nativi con build automatica: VPK e .nds pronti all'uso.</i></p>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🦇 [Batman Doom Vita](https://github.com/SancioPanza88/batman-doom-vita)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/batman-doom-vita?style=flat-square)](https://github.com/SancioPanza88/batman-doom-vita) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/batman-doom-vita?style=flat-square)](https://github.com/SancioPanza88/batman-doom-vita)
+<br>La total conversion di Doom II su PS Vita: engine doomgeneric, musica OPL3, dual analog, touch e LiveArea.
+
+### 👽 [DNF 2001 Vita](https://github.com/SancioPanza88/dnf-2001-vita)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/dnf-2001-vita?style=flat-square)](https://github.com/SancioPanza88/dnf-2001-vita) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/dnf-2001-vita?style=flat-square)](https://github.com/SancioPanza88/dnf-2001-vita)
+<br>Duke Nukem Forever 2001 su PS Vita: VPK standalone su base EDuke32-Vita, senza launcher.
+
+### 🧍 [Pivot DS](https://github.com/SancioPanza88/pivot-ds)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/pivot-ds?style=flat-square)](https://github.com/SancioPanza88/pivot-ds) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/pivot-ds?style=flat-square)](https://github.com/SancioPanza88/pivot-ds)
+<br>Clone di Pivot Animator per Nintendo DS in C con libnds: stickman trascinabile dal touch screen.
+
+</td>
+<td width="50%" valign="top">
+
+### 🥣 [Chex Quest Vita](https://github.com/SancioPanza88/chexquest-vita)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/chexquest-vita?style=flat-square)](https://github.com/SancioPanza88/chexquest-vita) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/chexquest-vita?style=flat-square)](https://github.com/SancioPanza88/chexquest-vita)
+<br>Chex Quest 1996 nativo su PS Vita: backend dedicato, musica FM OPL3, VPK standalone.
+
+### 🥣 [Chex Quest 2 Vita](https://github.com/SancioPanza88/chex-quest-2-vita)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/chex-quest-2-vita?style=flat-square)](https://github.com/SancioPanza88/chex-quest-2-vita) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/chex-quest-2-vita?style=flat-square)](https://github.com/SancioPanza88/chex-quest-2-vita)
+<br>Chex Quest 2 su PS Vita: CHEX2.WAD sopra CHEX.WAD, controlli console e pacchetto VPK.
+
+### 👾 [Chex Quest DS](https://github.com/SancioPanza88/chex-quest-ds)
+[![stars](https://img.shields.io/github/stars/SancioPanza88/chex-quest-ds?style=flat-square)](https://github.com/SancioPanza88/chex-quest-ds) [![lang](https://img.shields.io/github/languages/top/SancioPanza88/chex-quest-ds?style=flat-square)](https://github.com/SancioPanza88/chex-quest-ds)
+<br>Chex Quest su Nintendo DS con engine Chocolate Doom: WAD integrato via NitroFS, `.nds` da GitHub Actions.
+
+</td>
+</tr>
+</table>
+
+---
+
 <h2 align="center">📊 Numeri</h2>
 
 <p align="center">
