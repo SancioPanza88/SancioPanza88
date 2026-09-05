@@ -127,20 +127,12 @@
 <h2 align="center">📊 Numeri</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SancioPanza88&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="stats"/>
+  <img src="https://komarev.com/ghpvc/?username=SancioPanza88&color=d4af37&style=for-the-badge&label=visite+profilo" alt="visite"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSancioPanza88&query=%24.public_repos&label=repository&color=d4af37&style=for-the-badge&logo=github" alt="repo"/>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSancioPanza88&query=%24.followers&label=follower&color=1f6f4a&style=for-the-badge&logo=github" alt="follower"/>
+</p>
+<p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=SancioPanza88&theme=tokyonight&hide_border=true&background=0D1117" alt="streak"/>
-</p>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SancioPanza88&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="langs"/>
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SancioPanza88&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=f3d67c&line=d4af37&point=ffffff" alt="activity"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SancioPanza88/SancioPanza88/output/github-snake-dark.svg" alt="snake"/>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6f4a,100:d4af37&height=120&section=footer" alt="footer"/>
